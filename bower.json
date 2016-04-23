@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "droperZero <lucas_front@yahoo.com.br>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/magnorion/portfolio",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "font-awesome": "^4.6.1"
+  }
+}
